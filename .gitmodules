@@ -1,0 +1,4 @@
+[submodule "OCA/pos"]
+	url = https://github.com/OCA/pos.git
+	path = OCA/pos
+	branch = refs/heads/16.0
