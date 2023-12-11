@@ -1,2 +1,3 @@
 owner,name_repository,url_repository,private
 OCA,pos,https://github.com/OCA/pos.git,0
+OCA,stock-logistics-availability,https://github.com/OCA/stock-logistics-availability.git,0
