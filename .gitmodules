@@ -1,8 +1,0 @@
-[submodule "OCA/pos"]
-	url = https://github.com/OCA/pos.git
-	path = OCA/pos
-	branch = refs/heads/16.0
-[submodule "OCA/stock-logistics-availability"]
-	url = https://github.com/OCA/stock-logistics-availability.git
-	path = OCA/stock-logistics-availability
-	branch = refs/heads/16.0
